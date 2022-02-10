@@ -3,6 +3,7 @@
 # your name: Justin Wilmot
 # class: ICS 499
 # date: 2022
+#comment for fork
 
 #validate user input
 def input_check(input):
